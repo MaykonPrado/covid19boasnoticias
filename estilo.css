@@ -94,14 +94,19 @@ h3{
 	text-align: left;
 	
 }
-
+#caixatextoautor{
+	width: 100%;
+	padding-right: 10%;
+}
 }
 #msgbox{
 	padding-left: 10%;
+	
 }
 #txtautor{
+	width: 80%;
 	padding-left: 7%;
-	padding-right: 7%;
+	padding-right: 17%;
 }
 
 .imglado{
