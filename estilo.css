@@ -20,21 +20,21 @@ h1{
 #conteiner{
 				width: 100%;
 				background: rgb(240, 240, 240);
-				
-				
+				padding-bottom: 3%;
 				padding-left: 2%;
 		  	    padding-right: 2%;
 				}
 #navbar{
 				text-align: center;
 				display: flex;
-				
+				width: 100%;
 				color: black;
 				padding-bottom: 1%;
 				}
 .menu{
 				padding-left:3%;
 				padding-right:3%;
+				padding-bottom: 1%;
 				}
 #ct{
 				text-align: justfy;
@@ -92,6 +92,9 @@ h3{
 	padding-left: 7%;
 	padding-right: 7%;
 	text-align: left;
+	
+}
+
 }
 #msgbox{
 	padding-left: 10%;
@@ -136,3 +139,78 @@ h3{
 	width: 100%;
 	background-color: rgb(230, 230, 230);
 }
+
+#box2{
+	padding-left: 3%;
+}
+
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+  }
+  
+  .form-contact {
+	width: 100%;
+	font-family: "Arial", Times, serif;
+  }
+  
+  .form-contact-input {
+	width: 100%;
+	color: #292929;
+	font-size: 18px;
+	background-color: #E9E9E9;
+	border: 1px solid #E9E9E9;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	height: 40px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	text-indent: 20px;
+  }
+  
+  .form-contact-textarea {
+	width: 100%;
+	color: #292929;
+	font-size: 18px;
+	background-color: #E9E9E9;
+	border: 1px solid #E9E9E9;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	height: 200px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	text-indent: 20px;
+	padding-top: 16px;
+	padding-left: 0;
+	padding-right: 0;
+	font-family: "Arial", Times, serif;
+  }
+  
+  .form-contact-button {
+	width: 100%;
+	font-size: 18px;
+	border-radius: 4px;
+	color: #fff;
+	height: 40px;
+	opacity: .8;
+	margin-bottom: 20px;
+	cursor: pointer;
+	background: rgb(43, 42, 42);
+	display: block;
+	border: none;
+	border-bottom: 1px solid #2e2a2a;
+	border-right: 1px solid #2e2a2a;
+	transition: 1s;
+  }
+  
+  .form-contact-button:hover {
+	opacity: 1;
+  }
+  h4{
+	  color: black;
+  }
