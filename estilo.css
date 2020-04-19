@@ -1,0 +1,134 @@
+body{
+				
+				padding-right: 10%;
+				padding-left: 10%;
+				background:black;
+				font-size: 130%;
+				font-family:Sans-serif;
+				background: rgb(230, 230, 230);
+				}
+a{
+			color: black;
+			text-decoration: unset;	
+			
+				}
+h1{
+	text-align: center;
+	padding-top: 2%;			
+	font-size: 140%;
+				}
+#conteiner{
+				width: 100%;
+				background: rgb(240, 240, 240);
+				padding-bottom: 1%;
+				
+				padding-left: 2%;
+		  	    padding-right: 2%;
+				}
+#navbar{
+				text-align: center;
+				display: flex;
+				
+				color: black;
+				padding-bottom: 1%;
+				}
+.menu{
+				padding-left:3%;
+				padding-right:3%;
+				}
+#ct{
+				text-align: justfy;
+				
+				padding-left:2%;
+				padding-right:2%;
+				padding-bottom: 1%;
+				display: flex;
+				justify-content: space-between; 
+				}
+#corpo{
+				background:rgb(255, 255, 255);
+				margin:  1%;
+				
+				
+				box-shadow: white 2px 2px 3px;
+				padding-bottom:0%;
+				width: 100%;
+				}
+h3{
+	text-align: center;
+
+}
+#rodape{
+				margin-top: 5%;
+				width: 100%;
+				height: 20%;
+				}
+#mt{
+				padding-top: 3%;
+				margin:1%;
+				width: 100%;
+				background: rgb(180, 180, 180);
+				}
+#txtimg{
+				
+				text-align: justfy;
+				}
+#texto{
+				text-align: justify;
+				padding: 3%;
+				}
+.mg{
+				
+				
+				width: 100%;
+				height: 250px;
+				}
+.mgc{
+	width: 100%;
+}
+.txtlink{
+	color: blue;
+}
+
+#box{
+	display: flex;
+	justify-content: space-between;
+	padding-left: 7%;
+	padding-right: 7%;
+	text-align: left;
+}
+#msgbox{
+	padding-left: 10%;
+}
+#txtautor{
+	padding-left: 7%;
+	padding-right: 7%;
+}
+
+.imglado{
+	border-radius: 3px;
+	float:left; 
+	padding-right:10px; 
+	padding-bottom:1px"
+}
+.logo{
+	color: black;
+	width: 100%;
+	font-family: cursive;
+	text-align: justify;
+}
+.logos{
+	color: black;
+	width: 100%;
+	
+	font-family: cursive;
+	text-align: left;
+}
+.h2txt{
+	text-align:center;
+}
+.imglogo{
+	width: 30px;
+	font-family: cursive;
+
+}
