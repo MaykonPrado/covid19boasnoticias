@@ -128,7 +128,7 @@ h3{
 .img{
 	width: 30px;
 	font-family: cursive;
-	background-color: white;
+	
 }
 .logos{
 	color: rgb(251, 253, 251);
@@ -143,6 +143,8 @@ h3{
 .imglogo{
 	width: 30px;
 	font-family: cursive;
+	background-color: white;
+	border-radius: 5px;
 	
 
 }
